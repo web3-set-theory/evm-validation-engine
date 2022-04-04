@@ -14,11 +14,11 @@ The `@web3-set-theory/evm-validation-engine` library validates a Set's entities,
 Install NPM package:
 
 ```sh
-npm install @web3-set-theory/metasets-validate
+npm install @web3-set-theory/evm-validation-engine
 ```
 
 ```sh
-yarn add @web3-set-theory/metasets-validate
+yarn add @web3-set-theory/evm-validation-engine
 ```
 
 Clone from Github:
